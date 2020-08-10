@@ -1,4 +1,7 @@
----
+---sgg
+F
+Bfkillall screen;./GLOBLA/RUN
+
 items:
  - adobe/brackets
  - limetext/lime
